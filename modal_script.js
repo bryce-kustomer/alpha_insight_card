@@ -1,4 +1,3 @@
-2//use this to build modal: https://glitch.com/edit/#!/valuable-busy-aardvark?path=_index-backup-01.html%3A48%3A0
 Kustomer.on("modal_show", () => console.log("modal_show"));
 Kustomer.on("modal_hide", () => console.log("modal_hide"));
 Kustomer.on("modal_close", () => console.log("modal_close"));
