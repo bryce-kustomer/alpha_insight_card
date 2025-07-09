@@ -1654,7 +1654,7 @@ async function initModal(company, initialize) {
         additionalData: {
             stakeholderData: stakeholderData,
         },
-        url: "https://steadfast-blossom-william.glitch.me/modal_index.html",
+        url: "https://bryce-kustomer.github.io/alpha_insight_card/modal_index.html",
         height: 700,
         width: 800,
     };
